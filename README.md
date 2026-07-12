@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://centrifugal.dev/img/broadcast.svg" alt="Centrifugo" width="120">
+  <img src="https://centrifugal.dev/img/broadcast.svg" alt="Centrifugo" width="100%">
 </p>
 
 <h1 align="center">Centrifugo Playground</h1>
