@@ -5,6 +5,10 @@
 <h1 align="center">Centrifugo Playground</h1>
 
 <p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
+</p>
+
+<p align="center">
   Test <a href="https://centrifugal.dev/">Centrifugo</a> with the <a href="https://github.com/centrifugal/centrifuge-js">centrifuge-js</a> client.
 </p>
 
